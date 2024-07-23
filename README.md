@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yesh</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-- 🔭 I’m currently working on [Amazon clone](https://github.com/yesh7835/Amazon-Clone-)
+- 🔭 I’m currently working on [Amazon clone](https://amazon-clone-five-silk.vercel.app/)
 
 - 📫 How to reach me **yesh7835@gmail.com**
 
