@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yesh</h1>
+<h1 align="center">Hi 👋, I'm Yeshh</h1>
 <h3 align="center">A passionate web developer from Amroha UP.</h3>
 
 - 🔭 I’m currently working on [Amazon clone](https://amazon-clone-five-silk.vercel.app/)
